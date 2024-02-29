@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ipleasants
 - 👀 I’m interested in devops, infrastructure and automation.
-- 🌱 I’m currently learning kubernetes and ansible
+- 🌱 I’m currently learning opentofu and DevOps pipelines
 
 <!---
 ipleasants/ipleasants is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
